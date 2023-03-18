@@ -89,7 +89,7 @@ After you're finished please remove all the comments and instructions!
 
 
 
-https://user-images.githubusercontent.com/68339870/226114036-d7a98d0a-f829-4c19-90d4-cef3ec609c75.mp4
+
 
 
 
@@ -218,6 +218,6 @@ I would like to thank Microverse.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
