@@ -55,7 +55,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [AirPollution] <a name="LeaderBoard"></a>
+# 📖 [AirPollution] <a name="AirPollution"></a>
 
 > This is the project using reactjs.
 
