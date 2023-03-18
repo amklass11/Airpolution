@@ -57,7 +57,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [AirPollution] <a name="AirPollution"></a>
 
-> The air pollution web page offers users information on the Air Quality Index (AQI) of the world cities and the detailed measurement of each polluting substance used to measure AQI. Users can search by city name. Built with JavaScript, React, Redux, SCSS.
+> This is the project using reactjs.
 
 <!-- *[Bookstore]* can do math calculation like add, subtract, multiply and division. -->
 
@@ -87,6 +87,10 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
+
+https://user-images.githubusercontent.com/68339870/226113611-40bc8cac-7705-44d6-9554-0c627ad23d72.mp4
+
+
 <!-- - [Live Demo Link]() -->
 [demo](https://develop--zesty-mooncake-1a3672.netlify.app/)
 
@@ -107,13 +111,10 @@ To get a local copy up and running, follow these steps.
 You need to have Node.js installed.
 
 ### Setup
-- To clone the repository run `https://github.com/amklass11/react-capsyone.git` in your terminal
-- Next run `npm install` to install dependances
-- To run the project run `npm start` this will open your web browser on localhost:3000
 
 
 Clone this repo into your desire folder and then cd into it.
-
+https://github.com/amklass11/react-capsyone.git
 
 ### Install
 
