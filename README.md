@@ -55,7 +55,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [AirPollution] <a name="LeaderBoard"></a>
+# 📖 [AirPollution] <a name="AirPollution"></a>
 
 > The air pollution web page offers users information on the Air Quality Index (AQI) of the world cities and the detailed measurement of each polluting substance used to measure AQI. Users can search by city name. Built with JavaScript, React, Redux, SCSS.
 
