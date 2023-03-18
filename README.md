@@ -22,7 +22,7 @@ After you're finished please remove all the comments and instructions!
   <!-- <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/> -->
 
-  <h3><b>LeaderBoard README</b></h3>
+  <h3><b>React CAPSTONE README</b></h3>
 
 </div>
 
@@ -64,8 +64,7 @@ After you're finished please remove all the comments and instructions!
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> I use HTML/js for the front-end.
+> I use HTML/js  REACT for the front-end.
 
 <details>
   <summary>Client</summary>
@@ -113,7 +112,6 @@ You need to have Node.js installed.
 
 ### Setup
 
-https://github.com/amklass11/leaderboard-naruto.git
 
 Clone this repo into your desire folder and then cd into it.
 
