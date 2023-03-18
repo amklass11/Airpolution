@@ -57,7 +57,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [AirPollution] <a name="AirPollution"></a>
 
-> This is the project using reactjs.
+> This is the project built using reactjs.The air pollution web page offers users information on the Air Quality Index (AQI) of the world cities and the detailed measurement of each polluting substance used to measure AQI. Users can search by city name. Built with JavaScript, React, Redux, SCSS.
 
 <!-- *[Bookstore]* can do math calculation like add, subtract, multiply and division. -->
 
