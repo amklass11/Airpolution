@@ -55,7 +55,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [LeaderBoard] <a name="LeaderBoard"></a>
+# 📖 [AirPollution] <a name="LeaderBoard"></a>
 
 > This is the project using reactjs.
 
@@ -88,6 +88,7 @@ After you're finished please remove all the comments and instructions!
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 <!-- - [Live Demo Link]() -->
+[demo](https://develop--zesty-mooncake-1a3672.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,12 +102,7 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project :
 
-<!--
-Example command:
-sh
- gem install rails
 
- -->
 
 You need to have Node.js installed.
 
@@ -114,6 +110,7 @@ You need to have Node.js installed.
 
 
 Clone this repo into your desire folder and then cd into it.
+https://github.com/amklass11/react-capsyone.git
 
 ### Install
 
@@ -154,7 +151,7 @@ npm run linters
 
 - GitHub:[@amklass11](https://github.com/amklass11)
 
-- LinkedIn:[@AmkLAss](https://www.linkedin.com/in/amk-lass-521565196/)
+- LinkedIn:[@AmkLass](https://www.linkedin.com/in/amk-lass-521565196/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
