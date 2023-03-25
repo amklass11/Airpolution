@@ -55,9 +55,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [AirPollution] <a name="AirPollution"></a>
+# 📖 [Air Pollution] <a name="AirPollution"></a>
 
-> This is the project built using reactjs.The air pollution web page offers users information on the Air Quality Index (AQI) of the world cities and the detailed measurement of each polluting substance used to measure AQI. Users can search by city name. Built with JavaScript, React, Redux, SCSS.
+> This is the project using reactjs.
 
 <!-- *[Bookstore]* can do math calculation like add, subtract, multiply and division. -->
 
@@ -86,15 +86,9 @@ After you're finished please remove all the comments and instructions!
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-
-
-
-
-
+[LIVE DEMO](https://develop--zesty-mooncake-1a3672.netlify.app/)
 
 <!-- - [Live Demo Link]() -->
-[demo](https://develop--zesty-mooncake-1a3672.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,17 +100,21 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-- Code Editor
-- Git installed
-- Node js installed
+In order to run this project :
+
+<!--
+Example command:
+sh
+ gem install rails
+
+ -->
 
 You need to have Node.js installed.
 
 ### Setup
-
+https://github.com/amklass11/react-capsyone.git
 
 Clone this repo into your desire folder and then cd into it.
-https://github.com/amklass11/react-capsyone.git
 
 ### Install
 
@@ -157,7 +155,7 @@ npm run linters
 
 - GitHub:[@amklass11](https://github.com/amklass11)
 
-- LinkedIn:[@AmkLass](https://www.linkedin.com/in/amk-lass-521565196/)
+- LinkedIn:[@AmkLAss](https://www.linkedin.com/in/amk-lass-521565196/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -194,8 +192,8 @@ If you like this project, please don't forget to follow me and give me advice so
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse.
-
+-I would like to thank Microverse.
+- I wpould like to acknowledge Nelson Sakwa Abdullah for the design of this project
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
@@ -218,6 +216,6 @@ I would like to thank Microverse.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
