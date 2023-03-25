@@ -78,6 +78,9 @@ After you're finished please remove all the comments and instructions!
 ### Key Features <a name="key-features"></a>
 
 <!-- > Describe between 1-3 key features of the application. -->
+- searchbar
+- navbar
+- live styling
 
 - *[JS OBJECTS]*
 - *[BASIC HTML]*
@@ -92,8 +95,8 @@ After you're finished please remove all the comments and instructions!
 
 
 
-https://user-images.githubusercontent.com/68339870/227716785-9e528307-5ecf-4663-a7ad-c574599736dd.mp4
-
+<!-- https://user-images.githubusercontent.com/68339870/227716785-9e528307-5ecf-4663-a7ad-c574599736dd.mp4
+ -->
 
 
 https://user-images.githubusercontent.com/68339870/227717467-2454ec53-0c92-492e-b0be-3d6121e44fb8.mp4
