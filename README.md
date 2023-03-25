@@ -202,7 +202,7 @@ If you like this project, please don't forget to follow me and give me advice so
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 -I would like to thank Microverse.
-- I wpould like to acknowledge Nelson Sakwa Abdullah for the design of this project
+- II want to give credit to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) the [author of the original design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
